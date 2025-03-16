@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**TKatzz/TKatzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm Tomer and i am here to learn and showcase projects. I am an aspiring data scientist and i have projects in machine learning and NLP.
+I'm Tomer and i am here to learn and showcase projects. I am an aspiring data professional and i have projects in machine learning and NLP.
 I am currently working on deep learning and reinforcement learning models and trying to expand my expertise in python.
 I look forward to get a job working in data or research using those tools and i hope this repository will help me to showcase my skills.
 
